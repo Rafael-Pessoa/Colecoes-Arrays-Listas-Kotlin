@@ -18,4 +18,9 @@ fun main(){
     println(salario.find{it == 2000.0})
 
 
+
+
+
+
+
 }
